@@ -5,6 +5,20 @@ The data is visualized through various charts to add more clearness to the insig
 
 ---
 
+## Data Exploration ##
+
+As the data exploration phase is one of the most important phases of any data analytics project, so let's start with. This phase lets me understands the key aspects of our retail data such as the size of data, the number of customers that purchased in a specified period, the year we're trying to analyze its data, and the products that are included in this analysis.
+
+*After some exploration, I've conducted that:*
+1. Total number of records is `12858`.
+2. Our customer network has `110` customers.
+3. The total number of products sold are `2335` products.
+4. We're interested in only one country which is `United Kingdom`.
+5. Our period of interest is between `Jan 11, 2011` and `Sept 9, 2011`
+6. `717` invoices have been made by different customers.
+
+---
+
 ## Guiding Questions ##
 
 The purpose of this analysis is to answer five major questions to help move the business in the right direction.
