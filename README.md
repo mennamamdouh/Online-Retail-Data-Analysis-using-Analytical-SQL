@@ -28,3 +28,16 @@ Besides, we've decided to dig deeper into the behavior of the revenue for each q
 </div>
 
 ---
+
+### Question 2 ###
+
+As a retail store which helps thousands of customers to get their products, we're interested in viewing some information on the top 10 customers by revenue. This information shows the rank of each customer based on the `Average Puchase Value`, the total revenue he/she helps us to earn, and the total number of invoices he/she has made.
+
+This helps us to define the top 10 customers who participated in our growth, and make a decision to invest in those customers.
+
+<div align="center">
+  <img src="images/average-purchase-value.jpg" alt="Image" width=700>
+  <p><em>Average Purchase Value Per Customer</em></p>
+</div>
+
+---
