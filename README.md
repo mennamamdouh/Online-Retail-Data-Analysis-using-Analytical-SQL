@@ -55,3 +55,23 @@ This helps us to define the top 10 customers who participated in our growth, and
 </div>
 
 ---
+
+### Products Popularity and Profitability ###
+
+It's very important for any retail store to gain insights on the demand for their products. Two of the most important KPIs that determines this aspect is *Product Popularity* and *Product Profitability*.
+
+*Product Popularity* defines the items that are selling well, in other words they're the best sellers.
+
+<div align="center">
+  <img src="images/products-popularity.jpg" alt="Image" width=600>
+  <p><em>Best Sellers of our Online Retail Store</em></p>
+</div>
+
+On the other hand, *Product Profitability* determines the amount of profit that each product makes in a particular period.
+
+<div align="center">
+  <img src="images/products-profitability.jpg" alt="Image" width=600>
+  <p><em>Products Profitability</em></p>
+</div>
+
+---
