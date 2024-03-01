@@ -114,3 +114,12 @@ After getting the three scores, *R_Score*, *F_Score*, and *M_Score*. Our custome
 </div>
 
 ---
+
+## Dashboard ##
+
+<div align="center">
+  <img src="images/dashboard.jpg" alt="Image">
+  <p><em>Online Retail Store Dashboard</em></p>
+</div>
+
+---
