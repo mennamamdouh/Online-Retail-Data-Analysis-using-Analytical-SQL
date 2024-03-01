@@ -89,19 +89,28 @@ __RFM__ or *Receny*, *Frequency*, *Monetary* __Model__ is a strategy for analyzi
 
 These three factors can be used to reasonably predict how likely (or unlikely) it is that a customer will re-purchase from a company.
 
+---
+
 ### How to Calculate RFM ###
 
 After calculting the *Recency*, *Frequency*, and *Monetary*, customers are classified with a numerical ranking for each of the three values, with the ideal customer earning the highest score in each of the three categories. Here, the three values are on a scale of 1-5.
+
+---
 
 ### Customer Segmentation ###
 
 After getting the three scores, *R_Score*, *F_Score*, and *M_Score*. Our customers can be divided into segments according to the values of those scores. Here, I've divided the customers on only 2 values *R_Score*, and the average value of *F_Score* and *M_score* which is the *FM_Score*.
 
-### Results ###
+*Customers are segmented according to the following table:*
+<div align="center">
+  <img src="images/customer-segmentation.jpg" alt="Image" width=500>
+  <p><em>Customer Segmentation</em></p>
+</div>
 
-Here is a snapshot of the customer segments results from the RFM Analysis.
-
+*Here is a snapshot of the customer segments results from the RFM Analysis:*
 <div align="center">
   <img src="images/monetary-model.jpg" alt="Image">
   <p><em>Customer Segmentation according to RFM Model</em></p>
 </div>
+
+---
