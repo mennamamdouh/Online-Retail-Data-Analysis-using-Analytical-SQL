@@ -15,7 +15,7 @@ As the data exploration phase is one of the most important phases of any data an
 2. Our customer network has `110` customers.
 3. The total number of products sold are `2335` products.
 4. We're interested in only one country which is `United Kingdom`.
-5. Our period of interest is between `Jan 11, 2011` and `Sept 9, 2011`.
+5. Our period of interest is between `Dec 12, 2010` and `Dec 9, 2011`.
 6. `717` invoices have been made by different customers.
 
 ---
