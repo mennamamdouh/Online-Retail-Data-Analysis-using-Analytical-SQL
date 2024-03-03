@@ -19,3 +19,16 @@ You can check the whole code from here &rarr; [Tracing Customers Purchasing Beha
 </div>
 
 ---
+
+### Average number of days for reaching a specific threshold ###
+
+We're interested in getting the average number of days/transactions over all customers to reach a spent threshold of 250 LE. This value differs from customer to customer depending on the number of times they purchased, and the total amount spent for each order. Besides, there're some customers who didn't reach this threshold.
+
+After performing some calculations using *Analytical SQL*, I've found that, on average, the number of days/transactions customers made to reach this threshold is `7` days/transactions.
+
+You can check the whole code from here &rarr; [Average Number of Days to reach a Threshold](codes/NumberOfDaysToThreshold.sql.sql)
+
+<div align="center">
+  <img src="images/number-of-days.jpg" alt="Image" width=600>
+  <p><em>Random sample of the number of days/transactions made to reach a threshold of 250 LE</em></p>
+</div>
